@@ -6,4 +6,4 @@ Se trata de jogo simples com vários design patterns.
 
 ## UML
 
-![Imagem da UML do projeto](projeto_poo2/umlprojeto_poo2.pdf)
+![Imagem da UML do projeto](umlprojeto_poo2.jpg)
